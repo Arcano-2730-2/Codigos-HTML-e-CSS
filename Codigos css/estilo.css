@@ -1,0 +1,37 @@
+p{color:blue}
+
+#p2{color:red}
+
+#p3{color:blueviolet}
+
+.p4{color:brown}
+
+#banner{background-color: blue;
+height: 200px;}
+
+
+
+#logo {
+    
+    height: 150px;
+    background-color: red;
+;
+}
+
+    #frase{
+background-color: gray;
+height: 150px;
+margin-bottom: 15px;
+    }
+
+#central{
+    background-color: aquamarine;
+    height: 150px;
+    margin-top: 15px;
+}
+#footer{
+background-color: brown;
+height: 600px;
+margin-bottom: 15px;
+}
+

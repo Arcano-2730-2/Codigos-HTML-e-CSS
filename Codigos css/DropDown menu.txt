@@ -1,0 +1,16 @@
+Olá a todos !
+
+Abaixo seguem 3 links de como criar um menu DropDown, é de EXTREMA importância que você consiga fazer um menu desse tipo, pois na maioria dos sites profissionais eles são utilizados.
+
+Os tutoriais são bem simples e é só ir seguindo passo a passo.
+
+Obs:. O 3 tutoriais fazem a mesma coisa, muda somente o estilo do menu.
+
+1 - http://www.linhadecodigo.com.br/artigo/3474/menu-em-css-menu-dropdown-horizontal-com-html5-e-css3.aspx
+
+2 - http://www.maujor.com/tutorial/ddownmenu-a.php
+
+3 - http://www.webmaster.pt/menu-drop-down-css-838.html
+
+Se quiser outros exemplos é só procurar na internet por "Menu DropDown".
+
